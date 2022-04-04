@@ -1,6 +1,6 @@
 ## Olá !! Eu sou o Brian Saggini, tester de qualidade de software 👨‍💻 🐞
 
-- Hoje trabalho com qualidade de software 🔎 🐞✔️
+
 
 <div align="center">
   <a href="https://github.com/saggini">
