@@ -23,14 +23,8 @@
   <!-- Testes -->
   <img align="center" alt="Postman" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Cypress" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
   <img align="center" alt="Selenium" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Appium" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg">
-  <img align="center" alt="Robot Framework" height="30" width="40"
-    src="https://raw.githubusercontent.com/robotframework/robotframework.github.com/master/img/robot-framework.svg">
   <img align="center" alt="Allure Report" height="30" width="40"
     src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
   <img align="center" alt="SonarQube" height="30" width="40"
