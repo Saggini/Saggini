@@ -9,44 +9,43 @@
 </div>
   
    
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <!-- 🚀 Linguagens -->
+  <img alt="JavaScript" title="JavaScript" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" title="HTML5" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" title="CSS3" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" title="Python" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <table>
-  <tr>
-    <!-- Primeira Coluna -->
-    <td valign="top">
-      <h4>🚀 Linguagens</h4>
-      <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-      <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-      <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-      <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
-   </td>
-      <h4>🧪 Testes</h4>
-      <img alt="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">&nbsp;
-      <img alt="Selenium" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">&nbsp;
-      <img alt="Allure Report" height="30" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">&nbsp;
-      <img alt="SonarQube" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg">
-    </td>
+  <!-- 🧪 Testes -->
+  <img alt="Postman" title="Postman" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img alt="Selenium" title="Selenium" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img alt="Allure Report" title="Allure Report" height="30"
+    src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
+  <img alt="SonarQube" title="SonarQube" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg">
 
-    <!-- Segunda Coluna -->
-    <td valign="top">
-      <h4>⚙️ DevOps / CI/CD</h4>
-      <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
-      <img alt="Azure Pipelines" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg"><br><br>
+  <!-- ⚙️ DevOps / CI/CD -->
+  <img alt="Docker" title="Docker" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Azure Pipelines" title="Azure Pipelines" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
 
-      <h4>🔧 Controle de Versão</h4>
-      <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-      <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;
-      <img alt="GitLab" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">&nbsp;
-      <img alt="Bitbucket" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-    </td>
-  </tr>
-</table>
-
+  <!-- 🔧 Controle de Versão -->
+  <img alt="Git" title="Git" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" title="GitHub" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="GitLab" title="GitLab" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img alt="Bitbucket" title="Bitbucket" height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
 </div>
-
-
-
 
   
   ---
