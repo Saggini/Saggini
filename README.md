@@ -20,7 +20,7 @@
       <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
       <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
       <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
-
+   </td>
       <h4>🧪 Testes</h4>
       <img alt="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">&nbsp;
       <img alt="Selenium" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">&nbsp;
