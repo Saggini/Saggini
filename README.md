@@ -10,15 +10,47 @@
   
    
 <div style="display: inline_block"><br>
-  <!-- Tecnologias de Desenvolvimento -->
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <!-- Ferramentas de Testes e DevOps -->
-  <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <!-- Linguagens -->
+  <img align="center" alt="JavaScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <!-- Testes -->
+  <img align="center" alt="Postman" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Cypress" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
+  <img align="center" alt="Selenium" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Appium" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg">
+  <img align="center" alt="Robot Framework" height="30" width="40"
+    src="https://raw.githubusercontent.com/robotframework/robotframework.github.com/master/img/robot-framework.svg">
+  <img align="center" alt="Allure Report" height="30" width="40"
+    src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
+  <img align="center" alt="SonarQube" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg">
+
+  <!-- DevOps / CI/CD -->
+  <img align="center" alt="Docker" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Azure Pipelines" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
+
+  <!-- Controle de versão -->
+  <img align="center" alt="Git" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Bitbucket" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
 </div>
 
   
