@@ -21,7 +21,7 @@
   <img align="center" alt="Python" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
 
-  <br><br>
+
 
   <!-- 🧪 Testes -->
   <img align="center" alt="Postman" height="30" width="40"
@@ -33,7 +33,7 @@
   <img align="center" alt="SonarQube" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg">&nbsp;
 
-  <br><br>
+
 
   <!-- ⚙️ DevOps / CI/CD -->
   <img align="center" alt="Docker" height="30" width="40"
@@ -41,7 +41,7 @@
   <img align="center" alt="Azure Pipelines" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">&nbsp;
 
-  <br><br>
+
 
   <!-- 🔧 Controle de Versão -->
   <img align="center" alt="Git" height="30" width="40"
