@@ -9,7 +9,7 @@ Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, d
 
 - 🎯 QA estratégica com atuação sólida em múltiplas frentes de qualidade
 - 🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E)
-- 🐞 Implementadora de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
+- 🐞 Implementador de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
 - 🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
 - 🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
 - 🧰 Ferramentas técnicas:  Selenium, Cypress, Postman, Swagger, Appium, Maestro,GitHub Action
