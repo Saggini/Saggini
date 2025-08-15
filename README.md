@@ -34,8 +34,7 @@ QA Engineer • Automação de Testes • CI/CD • Dev
 
 ## Contatos
 - LinkedIn: [Brian Saggini](https://www.linkedin.com/in/seu-linkedin)
-- Site/Portfólio: https://seu-site.com
-- Email: <seu-email@exemplo.com>
+- Site/Portfólio: [https://seu-site.com](https://saggini.github.io/)
 
 ---
 
