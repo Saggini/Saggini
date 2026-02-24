@@ -7,7 +7,7 @@ Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, d
 
 ## 📝 Sobre mim
 
-- 🎯 QA estratégica com atuação sólida em múltiplas frentes de qualidade
+- 🎯 QA estratégico com atuação sólida em múltiplas frentes de qualidade
 - 🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E)
 - 🐞 Implementador de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
 - 🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
